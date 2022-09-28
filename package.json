@@ -1,0 +1,18 @@
+{
+  "name": "76scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "experian credit score ◄ Get Your FREE Credit Score experian credit score, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "experian credit score",
+    "how good credit score",
+    "is a 690 credit score good",
+    "credit score limit",
+    "credit score 21 year old"
+  ],
+  "repository": "https://github.com/truelestor/76scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
