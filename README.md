@@ -56,7 +56,7 @@ If you're like most people, you probably have at least one credit score and mayb
 
 Your credit scores are important because they give lenders a snapshot of your creditworthiness. They help lenders decide whether to approve your loan experian credit score and what interest rate to charge you.
 
-The first step is understanding what your scores mean. Scores range from 300 to 850, and the higher your score, the better. Scores below 650 are generally considered poor or bad.
+The first step is understanding what your scores mean. Scores range from 300 to 850, the higher your score, the better. Scores below 650 are generally considered poor or bad.
 
 Once you know your scores, check them against the lender's requirements. Each lender has their own set of guidelines, but in general, a score of 700 or above is considered good.
 
